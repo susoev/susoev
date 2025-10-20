@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Lid.am
+https://lid.am - a lead generation platform where our small team helps local businesses grow through SEO, and manages thousands of leads daily — from generation and qualification to routing and billing.
