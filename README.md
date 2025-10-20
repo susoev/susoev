@@ -4,6 +4,9 @@ A few words 🙂 I’m working on SEO traffic and building a platform that helps
 ## Lid.am
 https://lid.am - a lead generation platform where our small team helps local businesses grow through SEO, and manages thousands of leads daily — from generation and qualification to routing and billing.
 
+## Inth.ai
+https://inth.ai is a modern classifieds platform based in Thailand We aim to give sellers and buyers a fast, clean, and ad-free way to connect. Property, apartments, cars, bikes, and all you need across 🇹🇭 
+
 <!--
 **susoev/susoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
