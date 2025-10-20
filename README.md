@@ -1,4 +1,8 @@
 ## Hi there 👋
+A few words 🙂 I’m working on SEO traffic and building a platform that helps people find any kind of job — effortlessly, fast, and sure for free. Below are a few other projects that keep me inspired 👇
+
+## Lid.am
+https://lid.am - a lead generation platform where our small team helps local businesses grow through SEO, and manages thousands of leads daily — from generation and qualification to routing and billing.
 
 <!--
 **susoev/susoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Lid.am
-https://lid.am - a lead generation platform where our small team helps local businesses grow through SEO, and manages thousands of leads daily — from generation and qualification to routing and billing.
